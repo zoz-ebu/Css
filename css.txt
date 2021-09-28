@@ -1,0 +1,8 @@
+._my-div {}----->vaild
+._my-div {}----->vaild
+.12my-div {}---->not vaild
+.% _my-div {}---->not vaild
+.@my-div {}---->not vaild
+.my@div {}---->not vaild
+._my78div{}---->vaild
+.div{}---->not vaild
