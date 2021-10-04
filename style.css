@@ -1,0 +1,19 @@
+div {
+    width: 100px;
+    height: 100px;
+    font-size: 9px;
+    padding: 10px;
+    margin: 6px;
+}
+.col1 {
+    background-color: blue;
+    color: rgb(18, rgb(98, 199, 98), rgb(190, 190, 223));
+}
+.col2 {
+    background-color: rosybrown;
+    color: rgb(rgb(197, 103, 103), rgb(85, 190, 85), rgb(74, 74, 150));
+}
+.col3 {
+    background-color: rgb(74, 74, 150);
+    color: rgb(74, 74, 150);
+}
