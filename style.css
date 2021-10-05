@@ -1,0 +1,24 @@
+div {
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    font-size: 2px;
+    padding: 10px;
+    margin: 4px;
+}
+.col1 {
+    background-color: chocolate;
+    border:  2px solid goldenrod ;
+}
+.col2 {
+    background-color: hotpink;
+    border: ivory 2px;
+    border-right-style: dashed;
+    border-left-style: dashed;
+}
+.col3 {
+    background-color: lavenderblush;
+    border: rgb(221, 96, 96) 2px ;
+    border-top-style: dashed;
+    border-bottom-style: solid;
+}
