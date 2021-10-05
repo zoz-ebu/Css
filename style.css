@@ -1,0 +1,13 @@
+.col1 {
+    background-color: silver;
+    padding: 10px;
+    margin: 2px;
+    font-size: medium;
+    border-left: 2px solid red;
+
+}
+.spcl {
+    color: red;
+    font-weight: bold;
+    font-size: medium;
+}
